@@ -49,6 +49,6 @@ The first step is to enable GitHub Pages on this [repository]([[https://docs.git
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2023 GitHub &bull; [Code of Conduct]([https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md](https://sdf21z52se41f2s1df2.s3.bhs.cloud.ovh.net/v1/AUTH_8749f4abd4b14c57a9f85d6e4378c063/2s1zdf524ze541f5sd1f/s1df54za5e4fdq2s1dqsd)) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
